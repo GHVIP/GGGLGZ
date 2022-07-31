@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: ViaList
-! Version: 20220717
+! Version: 20220731
 
 ! Youtube
 m.youtube.com##ytm-companion-ad-renderer
@@ -17,14 +17,6 @@ m.youtube.com###YtSparklesVisibilityIdentifier
 ||static.sinawap.com^
 ||glores2.taisantech.com^
 
-! 豆瓣电影
-m.douban.com##DIV.center
-m.douban.com##A.score-write
-m.douban.com##A.baidu-openapp
-m.douban.com##DIV.subject-banner
-m.douban.com##SPAN.app-link
-m.douban.com##DIV.sub-vendor
-m.douban.com##A.btn.green
 
 ! 百度网盘
 pan.baidu.com##DIV.photo-banner
@@ -40,3 +32,4 @@ www.lxapk.com##.adsbygoogle
 
 ! 大米星球
 dmys1.com##DIV.webpage-advert.vodplay-adv1.mobile-play-adv
+dmys1.com##DIV.container-slide
