@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: ViaList
-! Version: 20220731
+! Version: 20220802
 
 ! Youtube
 m.youtube.com##ytm-companion-ad-renderer
@@ -33,3 +33,6 @@ www.lxapk.com##.adsbygoogle
 ! 大米星球
 dmys1.com##DIV.webpage-advert.vodplay-adv1.mobile-play-adv
 dmys1.com##DIV.container-slide
+
+! 瓜皮TV
+guapitv.xyz##DIV.stui-pannel_hd
