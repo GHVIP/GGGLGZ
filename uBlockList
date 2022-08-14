@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: uBlock list
-! Version: 20220520
+! Version: 20220814
 
 ! 打字
 www.typingclub.com##.adlevel-2.with-ads.col-xs-6
@@ -21,3 +21,6 @@ t-rex.tzfile.com##.pc.ripro_gg_wrap
 www.btbdys.com##.ayx
 www.btbdys.com##.col-md-7
 www.btbdys.com##.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5
+
+! 剧白白
+www.jubaibai.cc##.t-img-box > [href="https://www.jubaibai.com"]
