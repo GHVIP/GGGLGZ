@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: ViaList
-! Version: 20220904
+! Version: 20220907
 
 ! Youtube
 m.youtube.com##ytm-companion-ad-renderer
@@ -38,3 +38,4 @@ guapitv.xyz##DIV.stui-pannel_hd
 ! 剧白白
 ||p1.meituan.net/csc/3e28c05d78f3bf641c62066ff75d5ace98416.gif$image
 www.jubaibai.cc##[href="https://www.jubaibai.com"]
+www.jubaibai.cc##[href^="https://www.znanwu.vip"]
