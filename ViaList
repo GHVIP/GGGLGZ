@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: ViaList
-! Version: 20220916
+! Version: 20221001
 
 ! Youtube
 m.youtube.com##ytm-companion-ad-renderer
@@ -28,17 +28,9 @@ www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(2)
 www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(3)
 www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(4)
 www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(5)
-www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(6)
-www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(7)
+www.lxapk.com##div.fluid-widget.container:nth-of-type(3)
 www.lxapk.com##.article-content > .size-full.wp-block-image
 www.lxapk.com##.adsbygoogle
 
 ! 瓜皮TV
 guapitv.xyz##DIV.stui-pannel_hd
-
-! 豆瓣电影
-||at4.doubanio.com/uojltv$subdocument
-m.douban.com##div.center
-m.douban.com##.subject-banner
-m.douban.com##.app-link
-m.douban.com##.green.btn
