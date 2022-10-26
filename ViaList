@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: ViaList
-! Version: 20221002
+! Version: 20221026
 
 ! Youtube
 m.youtube.com##ytm-companion-ad-renderer
@@ -35,3 +35,10 @@ www.lxapk.com##.adsbygoogle
 ! 555电影
 ||i0.hdslb.com^
 555dy.fun##DIV#popup
+
+! 蓝光影院
+||wework.qpic.cn/wwpic/
+www.lgyy.cc##.visible-xs
+||lf9-static.bytednsdoc.com/obj/
+www.lgyy.cc###syad2
+www.lgyy.cc##.visible-xs
