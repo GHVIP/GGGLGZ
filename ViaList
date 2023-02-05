@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: ViaList
-! Version: 20230130
+! Version: 20230225
 
 ! Youtube
 m.youtube.com##ytm-companion-ad-renderer
@@ -16,7 +16,6 @@ m.youtube.com###YtSparklesVisibilityIdentifier
 ! 蓝奏云
 ||static.sinawap.com^
 ||glores2.taisantech.com^
-
 
 ! 百度网盘
 pan.baidu.com##DIV.photo-banner
@@ -37,7 +36,7 @@ www.lxapk.com##.adsbygoogle
 555dy.cc##DIV#popup
 
 ! 厂长资源
-www.c-zzy.com##DIV#hdphome
+www.czzzu.com##DIV.el-dialog.el-dialog--center.biggaonggao
 
 ! 果核博客
 ghxi.com##div[style^="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index"]
@@ -45,3 +44,11 @@ ghxi.com#@#.social-item
 
 ! 奇妙搜索
 www.magicalsearch.cn##DIV.item-detail-feedback.btn-line-normal.btn
+
+! voflix
+www.voflix.com##.popupShow.none.popup-tips.popup
+
+! 蓝光影院
+www.lgyy.cc##.popupShow.none.popup-tips.popup
+www.lgyy.cc##.container-slide
+www.lgyy.cc##DIV#bfad1
