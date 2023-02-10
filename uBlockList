@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: uBlock list
-! Version: 20230121
+! Version: 20230210
 ! 打字
 www.typingclub.com##.adlevel-2.with-ads.col-xs-6
 www.typingclub.com###adslot_2
@@ -16,4 +16,4 @@ t-rex.tzfile.com##div.col-lg-3.col-md-4.col-sm-6.col-6.col-lg-1-5:nth-of-type(1)
 t-rex.tzfile.com##.pc.ripro_gg_wrap
 
 ! 厂长资源
-czzy01.com##.top_hdp > .mikd
+czzzu.com##.top_hdp > .mikd
