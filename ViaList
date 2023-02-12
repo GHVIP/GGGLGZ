@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: ViaList
-! Version: 20230210
+! Version: 20230212
 
 ! Youtube
 m.youtube.com##ytm-companion-ad-renderer
@@ -53,3 +53,7 @@ ghxi.com#@#.social-item
 
 ! 奇妙搜索
 www.magicalsearch.cn##DIV.item-detail-feedback.btn-line-normal.btn
+
+! pansearch
+pansearch.long2ice.io##DIV.flex.flex-col.gap-2
+
