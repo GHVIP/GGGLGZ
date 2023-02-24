@@ -13,4 +13,9 @@ www.lxapk.com##div.widget_custom_html.zib-widget.widget_text:nth-of-type(1)
 www.voflix.com##div:nth-of-type(6)
 
 ! pansearch
-pansearch.long2ice.io##DIV.flex.flex-col.gap-2
+pansearch.long2ice.io##.p-4.justify-center.flex-col.flex-1.flex.mx-auto.container > .gap-2.flex-col.flex
+pansearch.long2ice.io##.divider
+
+! 奇妙搜索
+www.magicalsearch.cn##div.btn.btn-line-normal.item-detail-feedback:nth-of-type(3)
+www.magicalsearch.cn###android
