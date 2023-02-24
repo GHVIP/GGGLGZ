@@ -1,56 +1,16 @@
 [Adblock Plus]
 ! Title: ViaList
-! Version: 20230212
-
-! Youtube
-m.youtube.com##ytm-companion-ad-renderer
-m.youtube.com###YtSparklesVisibilityIdentifier
-|https://m.youtube.com/s/player/*/player-plasma-ias-phone-zh_CN.vflset/ad.js
-||googlesyndication.com^
-/googleads.$~script,domain=~googleads.github.io
-/pagead/lvz?
-||google.com/pagead/
-||static.doubleclick.net^$domain=youtube.com
-||youtube.com/get_midroll_
-
-! 蓝奏云
-||static.sinawap.com^
-||glores2.taisantech.com^
-
-! 百度网盘
-pan.baidu.com##DIV.photo-banner
+! Version: 20230224
 
 ! 乐享网
-www.lxapk.com##div.widget_custom_html.zib-widget.widget_text
-www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(1)
-www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(2)
-www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(3)
-www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(4)
-www.lxapk.com##posts.xx.flex.style2.ajax-item.list.posts-item:nth-of-type(5)
-www.lxapk.com##div.fluid-widget.container:nth-of-type(3)
-www.lxapk.com##.article-content > .size-full.wp-block-image
-www.lxapk.com##.adsbygoogle
+www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
+www.lxapk.com##div.widget_custom_html.zib-widget.widget_text:nth-of-type(1)
 
 ! 555电影
-||i0.hdslb.com^
-555dy.cc##DIV#popup
-
-! 厂长资源
-czzzu.com##.top_hdp > .mikd
-czzzu.com###minigonggaop
+555dy.cc##div:nth-of-type(6)
 
 ! voflix
-www.voflix.com##DIV#popup
-
-! 蓝光影院
-www.lgyy.cc##DIV#popup
-www.lgyy.cc##.container-slide
-www.lgyy.cc##DIV#bfad1
-
-! 果核博客
-ghxi.com##div[style^="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index"]
-ghxi.com#@#.social-item
+www.voflix.com##div:nth-of-type(6)
 
 ! pansearch
 pansearch.long2ice.io##DIV.flex.flex-col.gap-2
-
