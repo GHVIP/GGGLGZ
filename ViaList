@@ -1,6 +1,6 @@
 [Adblock Plus]
-! Title: ViaList
-! Version: 20230225
+! Title: AdList
+! Version: 20230303
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
@@ -17,7 +17,6 @@ pansearch.long2ice.io##.p-4.justify-center.flex-col.flex-1.flex.mx-auto.containe
 pansearch.long2ice.io##.divider
 
 ! 奇妙搜索
-www.magicalsearch.cn##div.btn.btn-line-normal.item-detail-feedback:nth-of-type(3)
-www.magicalsearch.cn###android
-www.magicalsearch.cn##.is-active.modal
-
+www.magicalsearch.top##div.btn.btn-line-normal.item-detail-feedback:nth-of-type(3)
+www.magicalsearch.top###android
+www.magicalsearch.top##.is-active.modal
