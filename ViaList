@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: AdList
-! Version: 20230303
+! Version: 20230307
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
@@ -20,3 +20,6 @@ pansearch.long2ice.io##.divider
 www.magicalsearch.top##div.btn.btn-line-normal.item-detail-feedback:nth-of-type(3)
 www.magicalsearch.top###android
 www.magicalsearch.top##.is-active.modal
+
+! 百度搜索
+m.baidu.com##.se-head-tablink
