@@ -24,3 +24,4 @@ pansearch.long2ice.io##.divider
 
 ! 人人影视pro
 www.renren.pro##[href^="http://lt.bitpay.pro/register"]
+www.renren.pro##.normal-title-wrap > div > div
