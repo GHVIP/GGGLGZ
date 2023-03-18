@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: uBlock list
-! Version: 20230310
+! Version: 20230318
 ! 打字
 www.typingclub.com##.adlevel-2.with-ads.col-xs-6
 www.typingclub.com###adslot_2
@@ -23,5 +23,4 @@ pansearch.long2ice.io##.p-4.justify-center.flex-col.flex-1.flex.mx-auto.containe
 pansearch.long2ice.io##.divider
 
 ! 人人影视pro
-www.renren.pro##[href^="http://lt.bitpay.pro/register"]
-www.renren.pro##.normal-title-wrap > div > div
+www.renren.pro##.module-list-right-title-wrap
