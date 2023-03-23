@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: AdList
-! Version: 20230318
+! Version: 20230323
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
@@ -26,3 +26,4 @@ m.baidu.com##.se-head-tablink
 
 ! 假人人影视
 www.renren.pro##.module-list-right-title-wrap
+www.renren.pro##.dgzslluk
