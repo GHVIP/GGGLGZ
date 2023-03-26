@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: AdList
-! Version: 20230323
+! Version: 20230326
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
@@ -21,5 +21,25 @@ www.magicalsearch.top##div.btn.btn-line-normal.item-detail-feedback:nth-of-type(
 www.magicalsearch.top###android
 www.magicalsearch.top##.is-active.modal
 
-! 百度搜索
+! 百度搜索顶部空白
 m.baidu.com##.se-head-tablink
+
+! 百度搜索结果中的视频
+baidu.com##[srcid^="recommend_video"]
+! 百度搜索结果中的百度提供APP下载
+baidu.com##[srcid^="app_mobile_simple"]
+! 百度中的购物广告，如搜索"裤子/vivo"
+baidu.com##[srcid^="sp_purc_atom"]
+! 百度搜索结果中的百家号
+baidu.com##[srcid^="guanfanghao"]
+! 百度搜索结果中的笔记
+baidu.com##[srcid^="lego_tpl"]
+! 百度中的笔记精选
+baidu.com##[srcid="note_lead"]
+! 百度搜索结果中的相关用语
+baidu.com##[srcid^="sigma_celebrity_rela"]
+! 大家都在搜
+baidu.com##.se-page-relative
+baidu.com##[tpl="recommend_list"][nr="1"]
+! 百度医典
+baidu.com##[srcid^="med_disease_kg"]
