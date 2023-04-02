@@ -1,4 +1,4 @@
-[Adblock Plus]
+[uBlock Origin]
 ! Title: PCList
 ! Version: 20230402
 ! 打字
@@ -21,4 +21,3 @@ czzzu.com##.top_hdp > .mikd
 ! pansearch
 pansearch.long2ice.io##.p-4.justify-center.flex-col.flex-1.flex.mx-auto.container > .gap-2.flex-col.flex
 pansearch.long2ice.io##.divider
-
