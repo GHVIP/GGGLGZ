@@ -1,45 +1,60 @@
-[Adblock Plus]
-! Title: AdList
-! Version: 20230326
+[uBlock Origin]
+! Title: MobileList
+! Version: 20230402
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
 www.lxapk.com##div.widget_custom_html.zib-widget.widget_text:nth-of-type(1)
 
 ! 555电影
-555dy.cc##div:nth-of-type(6)
+555dy.cc##.popupShow.none.popup-tips.popup
 
 ! voflix
-www.voflix.com##div:nth-of-type(6)
+www.voflix.me##div:nth-of-type(6)
 
 ! pansearch
-pansearch.long2ice.io##.p-4.justify-center.flex-col.flex-1.flex.mx-auto.container > .gap-2.flex-col.flex
-pansearch.long2ice.io##.divider
+www.pansearch.me##.p-4.justify-center.flex-col.flex-1.flex.mx-auto.container > .gap-2.flex-col.flex
+www.pansearch.me##.divider
 
 ! 奇妙搜索
 www.magicalsearch.top##div.btn.btn-line-normal.item-detail-feedback:nth-of-type(3)
 www.magicalsearch.top###android
 www.magicalsearch.top##.is-active.modal
 
+! 人人影视Pro
+www.renren.pro##.normal-title-wrap
+www.renren.pro##div.module:nth-of-type(1)
+
+! 爱看影视
+ikanys.tv##div:nth-of-type(5)
+||p9-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/adf6a0c31aaf4e738d3e59f7a502d824~tplv-mlhdmxsy5m-q75:0:0.image$image,domain=cms.ikanys.tv
+
 ! 百度搜索顶部空白
 m.baidu.com##.se-head-tablink
 
 ! 百度搜索结果中的视频
-baidu.com##[srcid^="recommend_video"]
+m.baidu.com##[srcid^="recommend_video"]
 ! 百度搜索结果中的百度提供APP下载
-baidu.com##[srcid^="app_mobile_simple"]
-! 百度中的购物广告，如搜索"裤子/vivo"
-baidu.com##[srcid^="sp_purc_atom"]
+m.baidu.com##[srcid^="app_mobile_simple"]
+! 百度中的购物广告
+m.baidu.com##[srcid^="sp_purc_atom"]
 ! 百度搜索结果中的百家号
-baidu.com##[srcid^="guanfanghao"]
+m.baidu.com##[srcid^="guanfanghao"]
 ! 百度搜索结果中的笔记
-baidu.com##[srcid^="lego_tpl"]
+m.baidu.com##[srcid^="lego_tpl"]
 ! 百度中的笔记精选
-baidu.com##[srcid="note_lead"]
+m.baidu.com##[srcid="note_lead"]
 ! 百度搜索结果中的相关用语
-baidu.com##[srcid^="sigma_celebrity_rela"]
-! 大家都在搜
-baidu.com##.se-page-relative
-baidu.com##[tpl="recommend_list"][nr="1"]
-! 百度医典
-baidu.com##[srcid^="med_disease_kg"]
+m.baidu.com##[srcid^="sigma_celebrity_rela"]
+! 百度搜索结果中的百度问一问
+m.baidu.com##[srcid^="wenda_inquiry"]
+! 百度搜索结果中的百度爱采购
+m.baidu.com##[srcid^="b2b_straight_wise_vertical_na"]
+! 百度搜索结果中的百度健康
+m.baidu.com##[srcid^="med_wz"]
+m.baidu.com##[srcid^="live_medical"]
+m.baidu.com##[srcid^="med_mall_recommend_san"]
+! 大家还在搜
+m.baidu.com##.se-page-relative
+m.baidu.com##.card-container__AkDZY._zpTVW.c-container
+m.baidu.com##.c-atom-afterclick-recomm-wrap
