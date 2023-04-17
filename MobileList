@@ -63,6 +63,6 @@ m.baidu.com##.c-atom-afterclick-recomm-wrap
 jm-comic1.cc##.in.fade.modal
 jm-comic1.cc##.in.fade.modal-backdrop
 jm-comic1.cc##.owl-drag.owl-loaded.partial-view.owl-carousel
-jm-comic1.cc##div.row:nth-of-type(6)
-jm-comic1.cc##.col-lg-7 > .e8c78e-4_b
-jm-comic1.cc##div.col-xs-6
+jm-comic1.cc##.visible-sm.visible-xs.bot-per
+jm-comic1.cc##.e8c78e-4_b
+jm-comic1.cc##.panel-default.panel > div:nth-of-type(2)
