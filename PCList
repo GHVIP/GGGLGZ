@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: PCList
-! Version: 20230417
+! Version: 20230418
 ! 打字
 www.typingclub.com##.adlevel-2.with-ads.col-xs-6
 www.typingclub.com###adslot_2
@@ -29,3 +29,6 @@ jm-comic1.cc##.owl-drag.owl-loaded.partial-view.owl-carousel
 jm-comic1.cc##div.row:nth-of-type(6)
 jm-comic1.cc##.col-lg-7 > .e8c78e-4_b
 jm-comic1.cc##div.col-xs-6
+
+! 乐享网
+www.lxapk.com##.size-full.wp-block-image
