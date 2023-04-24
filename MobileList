@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: MobileList
-! Version: 20230418
+! Version: 20230424
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
@@ -32,6 +32,8 @@ ikanys.tv##div:nth-of-type(5)
 
 ! 百度搜索顶部空白
 m.baidu.com##.se-head-tablink
+!
+m.baidu.com##.se-ft-promlink
 
 ! 百度搜索结果中的视频
 m.baidu.com##[srcid^="recommend_video"]
