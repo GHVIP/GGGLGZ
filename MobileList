@@ -32,7 +32,7 @@ ikanys.tv##div:nth-of-type(5)
 
 ! 百度搜索顶部空白
 m.baidu.com##.se-head-tablink
-!
+! 填问卷，赢大奖
 m.baidu.com##.se-ft-promlink
 
 ! 百度搜索结果中的视频
