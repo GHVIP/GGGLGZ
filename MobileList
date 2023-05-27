@@ -62,6 +62,8 @@ m.baidu.com##.se-page-relative
 m.baidu.com##.card-container__AkDZY._zpTVW.c-container
 m.baidu.com##.c-atom-afterclick-recomm-wrap
 m.baidu.com##ARTICLE.c-container._zpTVW.card-container__i-MK8
+! 百度搜索中的百度手机助手
+baidu.com##[srcid^="app_mobile_ex"]
 
 ! 18ccomic
 jm-comic2.cc##.in.fade.modal
