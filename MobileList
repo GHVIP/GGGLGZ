@@ -49,7 +49,7 @@ m.baidu.com##[srcid^="guanfanghao"]
 ! 百度搜索结果中的笔记
 m.baidu.com##[srcid^="lego_tpl"]
 ! 百度中的笔记精选
-m.baidu.com##[srcid="note_lead"]
+m.baidu.com##[srcid^="note_lead"]
 ! 百度搜索结果中的相关用语
 m.baidu.com##[srcid^="sigma_celebrity_rela"]
 ! 百度搜索结果中的百度问一问
