@@ -1,11 +1,12 @@
 [uBlock Origin]
 ! Title: MobileList
-! Version: 20230603
+! Version: 20230604
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
 www.lxapk.com##div.widget_custom_html.zib-widget.widget_text:nth-of-type(1)
 www.lxapk.com##.size-full.wp-block-image
+www.lxapk.com##DIV.widget_text.zib-widget.widget_custom_html
 
 ! 555电影
 555dy.cc##.popupShow.none.popup-tips.popup
