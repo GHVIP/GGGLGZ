@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: MobileList
-! Version: 20230611
+! Version: 20230612
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
