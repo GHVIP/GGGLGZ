@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: MobileList
-! Version: 20230618
+! Version: 20230620
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
@@ -78,6 +78,10 @@ jm-comic2.cc##.speed_btn.btn-primary.btn.center.visible-sm.visible-xs
 
 ! 奇漫屋
 m.qiman59.com##.guide-download
+
+! 123pan
+www.123pan.com##.slick-track
+www.123pan.com##.appHeader
 
 ! F搜
 fsoufsou.com##.organic-results .flex-column
