@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: MobileList
-! Version: 20230620
+! Version: 20230621
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
@@ -39,7 +39,7 @@ m.baidu.com##[srcid^="recommend_video"]
 m.baidu.com##[srcid^="app_mobile_simple"]
 ! 百度中的购物广告
 m.baidu.com##[srcid^="sp_purc_atom"]
-m.baidu.com##[srcid^="zk_sc_header"]
+m.baidu.com##[srcid*="zk_sc_header"]
 ! 百度搜索结果中的百家号
 m.baidu.com##[srcid^="guanfanghao"]
 ! 百度搜索结果中的笔记
@@ -59,11 +59,11 @@ m.baidu.com##[srcid^="med_mall_recommend_san"]
 ! 大家还在搜
 m.baidu.com##.se-page-relative
 m.baidu.com##ARTICLE.c-container._zpTVW.card-container__i-MK8
-m.baidu.com[tpl^="recommend_list"]
+m.baidu.com[tpl*="recommend_list"]
 ! 百度搜索中的百度手机助手
 m.baidu.com##[srcid^="app_mobile_ex"]
 ! 百度搜索中的小程序
-m.baidu.com##[srcid^="xcx_"]
+m.baidu.com##[srcid*="xcx_"]
 ! 百度搜索中的本地惠生活
 m.baidu.com##[srcid^="fw_on_newsite_three"]
 
