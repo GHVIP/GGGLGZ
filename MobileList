@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: MobileList
-! Version: 20230622
+! Version: 20230705
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
@@ -32,9 +32,10 @@ m.baidu.com##.se-head-tablink
 ! 填问卷，赢大奖
 m.baidu.com##.se-ft-promlink
 ! 百度搜索自动播放视频
-baidu.com##.c-video-player
+m.baidu.com##.c-video-player
 ! 百度搜索结果中的视频
 m.baidu.com##[srcid^="recommend_video"]
+m.baidu.com##[data-video-play-type='autoplay']
 ! 百度搜索结果中的百度提供APP下载
 m.baidu.com##[srcid^="app_mobile_simple"]
 ! 百度中的购物广告
