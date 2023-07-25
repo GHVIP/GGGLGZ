@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: MobileList
-! Version: 20230711
+! Version: 20230725
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
@@ -71,6 +71,8 @@ m.baidu.com##[srcid^="app_mobile_ex"]
 m.baidu.com##[srcid*="xcx_"]
 ! 百度搜索中的本地惠生活
 m.baidu.com##[srcid^="fw_on_newsite_three"]
+! 百度搜索中的医美机构
+m.baidu.com##[srcid^="ym_hospital_recommend"]
 
 ! 18ccomic
 jm-comic2.cc##.in.fade.modal
