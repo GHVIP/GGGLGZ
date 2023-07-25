@@ -9,8 +9,7 @@ www.lxapk.com##.size-full.wp-block-image
 www.lxapk.com##DIV.widget_text.zib-widget.widget_custom_html
 
 ! 果核剥壳
-ghxi.com##div[style^="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index"]
-ghxi.com#@#.social-item
+www.ghxi.com##div[style="padding: 10px; position: fixed; bottom: 0px; left: 0px; right: 0px; z-index: 99; background-color: rgb(204, 68, 68); color: rgb(255, 255, 255);"]
 
 ! 555电影
 555dy.cc##.popupShow.none.popup-tips.popup
