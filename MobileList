@@ -1,18 +1,12 @@
-[uBlock Origin]
+[Adblock Plus 2.0]
 ! Title: MobileList
-! Version: 20230725
+! Version: 20231014
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
 www.lxapk.com##div.widget_custom_html.zib-widget.widget_text:nth-of-type(1)
 www.lxapk.com##.size-full.wp-block-image
 www.lxapk.com##DIV.widget_text.zib-widget.widget_custom_html
-
-! 果核剥壳
-www.ghxi.com##div[style="padding: 10px; position: fixed; bottom: 0px; left: 0px; right: 0px; z-index: 99; background-color: rgb(204, 68, 68); color: rgb(255, 255, 255);"]
-
-! 555电影
-555dy.cc##.popupShow.none.popup-tips.popup
 
 ! voflix
 www.voflix.me##div:nth-of-type(6)
@@ -72,6 +66,8 @@ m.baidu.com##[srcid*="xcx_"]
 m.baidu.com##[srcid^="fw_on_newsite_three"]
 ! 百度搜索中的医美机构
 m.baidu.com##[srcid^="ym_hospital_recommend"]
+! 百度搜索中的百度优选
+m.baidu.com##[srcid^="sp_entity_choose"]
 
 ! 18ccomic
 jm-comic2.cc##.in.fade.modal
@@ -85,11 +81,7 @@ jm-comic2.cc##.speed_btn.btn-primary.btn.center.visible-sm.visible-xs
 ! 奇漫屋
 m.qiman59.com##.guide-download
 
-! 123pan
-www.123pan.com##.slick-track
-www.123pan.com##.appHeader
-
-! F搜
-fsoufsou.com##.organic-results .flex-column
+! 屏蔽空白占位
+##body > embed[id][src]
 
 
