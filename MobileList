@@ -1,28 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: MobileList
-! Version: 20231014
+! Version: 20231112
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
 www.lxapk.com##div.widget_custom_html.zib-widget.widget_text:nth-of-type(1)
 www.lxapk.com##.size-full.wp-block-image
 www.lxapk.com##DIV.widget_text.zib-widget.widget_custom_html
-
-! voflix
-www.voflix.me##div:nth-of-type(6)
-
-! pansearch
-www.pansearch.me##.p-4.justify-center.flex-col.flex-1.flex.mx-auto.container > .gap-2.flex-col.flex
-www.pansearch.me##.divider
-
-! 奇妙搜索
-www.magicalsearch.top##div.btn.btn-line-normal.item-detail-feedback:nth-of-type(3)
-www.magicalsearch.top###android
-www.magicalsearch.top##.is-active.modal
-
-! 人人影视Pro
-www.renren.pro##.normal-title-wrap
-www.renren.pro##div.module:nth-of-type(1)
 
 ! 百度搜索顶部空白
 m.baidu.com##.se-head-tablink
