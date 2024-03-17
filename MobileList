@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: MobileList
-! Version: 20231112
+! Version: 20240317
 
 ! 乐享网
 www.lxapk.com##div.fluid-widget.container > .widget_custom_html.zib-widget.widget_text
@@ -22,6 +22,8 @@ m.baidu.com##[srcid^="app_mobile_simple"]
 ! 百度中的购物广告
 m.baidu.com##[srcid^="sp_purc_atom"]
 m.baidu.com##[srcid*="zk_sc_header"]
+! 选购指南
+m.baidu.com##.hide-android-bg_bmHrF
 ! 百度搜索结果中的百家号
 m.baidu.com##[srcid^="guanfanghao"]
 ! 百度搜索结果中的笔记
@@ -52,20 +54,4 @@ m.baidu.com##[srcid^="fw_on_newsite_three"]
 m.baidu.com##[srcid^="ym_hospital_recommend"]
 ! 百度搜索中的百度优选
 m.baidu.com##[srcid^="sp_entity_choose"]
-
-! 18ccomic
-jm-comic2.cc##.in.fade.modal
-jm-comic2.cc##.in.fade.modal-backdrop
-jm-comic2.cc##.owl-drag.owl-loaded.partial-view.owl-carousel
-jm-comic2.cc##.visible-sm.visible-xs.bot-per
-jm-comic2.cc##.e8c78e-4_b
-jm-comic2.cc##.panel-default.panel > div:nth-of-type(2)
-jm-comic2.cc##.speed_btn.btn-primary.btn.center.visible-sm.visible-xs
-
-! 奇漫屋
-m.qiman59.com##.guide-download
-
-! 屏蔽空白占位
-##body > embed[id][src]
-
 
